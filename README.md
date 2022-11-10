@@ -2,7 +2,7 @@
 
 My config file for the [ZSA Moonlander](https://www.zsa.io/moonlander/)
 
-Customise [https://configure.ergodox-ez.com/moonlander/layouts/Kvgl9/latest/0](here)
+Customise [https://configure.ergodox-ez.com/moonlander/layouts/Kvgl9/latest/0](https://configure.ergodox-ez.com/moonlander/layouts/Kvgl9/latest/0)
 
 ## Requirements
 
